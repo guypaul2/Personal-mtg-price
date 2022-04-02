@@ -1,0 +1,491 @@
+Jousting Lance	Jousting Lance	0,04	0,05
+Loxodon Warhammer	Loxodon Warhammer	0,24	null
+Slab Hammer			
+Diviner's Wand	Diviner's Wand	0,30	2,00
+Spidersilk Net	Spidersilk Net	0,06	0,48
+Slab Hammer			
+Pirate's Cutlass	Pirate's Cutlass	0,04	0,03
+Skeleton Key	Skeleton Key	0,11	0,30
+Kite Shield	Kite Shield	0,20	0,99
+Bone Saw	Bone Saw	0,11	0,30
+Forebear's Blade	Forebear's Blade	0,09	0,52
+Skyblinder Staff	Skyblinder Staff	0,06	0,30
+Specter's Shroud	Specter's Shroud	0,34	0,30
+Leering Emblem	Leering Emblem	0,43	1,66
+Strider Harness			
+Bone Saw	Bone Saw	0,11	0,30
+Chitinous Cloak	Chitinous Cloak	0,10	0,30
+Shard of Broken Glass	Shard of Broken Glass	0,02	0,05
+Pirate's Cutlass	Pirate's Cutlass	0,04	0,03
+Gorgon's Head			
+Blade of the Bloodchief	Blade of the Bloodchief	0,99	null
+Spidersilk Net	Spidersilk Net	0,06	0,48
+Mask of Avacyn	Mask of Avacyn	0,22	null
+Sigiled Sword of Valeron	Sigiled Sword of Valeron	0,49	1,05
+Captain's Claws	Captain's Claws	0,19	0,25
+Skeleton Key	Skeleton Key	0,11	0,30
+Fireshrieker	Fireshrieker	0,24	null
+Loxodon Warhammer	Loxodon Warhammer	0,24	null
+Gorgon Flail	Gorgon Flail	1,22	1,91
+Shield of Kaldra	Shield of Kaldra	5,38	70,00
+Fireshrieker	Fireshrieker	0,24	null
+Haunted Cloak	Haunted Cloak	0,08	0,99
+Adventuring Gear	Adventuring Gear	0,05	0,55
+Strata Scythe	Strata Scythe	0,18	null
+Tatsumasa, the Dragon's Fang	Tatsumasa, the Dragon's Fang	1,03	13,99
+Cobbled Wings	Cobbled Wings	0,05	0,15
+Shield of Kaldra	Shield of Kaldra	5,38	70,00
+Quietus Spike	Quietus Spike	2,00	null
+Silverskin Armor	Silverskin Armor	0,10	3,49
+Mask of Avacyn	Mask of Avacyn	0,22	null
+Dragon Throne of Tarkir	Dragon Throne of Tarkir	0,16	0,18
+Golem-Skin Gauntlets	Golem-Skin Gauntlets	0,18	0,19
+Thornbite Staff	Thornbite Staff	3,52	6,99
+Paradise Mantle	Paradise Mantle	4,43	14,50
+Amorphous Axe	Amorphous Axe	0,20	0,04
+Armory of Iroas	Armory of Iroas	0,49	0,15
+Haunted Cloak	Haunted Cloak	0,08	0,99
+Pirate's Cutlass	Pirate's Cutlass	0,04	0,03
+Grafted Wargear	Grafted Wargear	0,04	0,18
+Blackblade Reforged	Blackblade Reforged	0,53	null
+Swiftfoot Boots	Swiftfoot Boots	null	null
+Basilisk Collar	Basilisk Collar	1,60	null
+Sunforger	Sunforger	0,57	null
+Hero's Blade	Hero's Blade	0,07	0,20
+Umbral Mantle	Umbral Mantle	3,99	14,67
+Bonehoard	Bonehoard	0,11	null
+Swiftfoot Boots	Swiftfoot Boots	null	null
+Lightning Greaves	Lightning Greaves	null	null
+Lightning Greaves	Lightning Greaves	null	null
+Swiftfoot Boots	Swiftfoot Boots	null	null
+Prying Blade	Prying Blade	0,05	0,35
+Whispersilk Cloak	Whispersilk Cloak	null	null
+Trailblazer's Boots	Trailblazer's Boots	1,30	2,00
+Prowler's Helm			
+Orzhov Signet	Orzhov Signet	0,23	null
+Gruul Signet	Gruul Signet	0,20	null
+Simic Signet	Simic Signet	0,15	null
+Dimir Signet	Dimir Signet	2,40	null
+Worn Powerstone	Worn Powerstone	0,48	null
+Boros Locket	Boros Locket	0,03	null
+Boros Locket	Boros Locket	0,03	null
+Pentad Prism	Pentad Prism	0,11	0,28
+Wanderer's Twig	Wanderer's Twig	0,11	0,18
+Traveler's Amulet	Traveler's Amulet	0,02	0,05
+Gem of Becoming	Gem of Becoming	0,02	0,99
+Catalyst Stone	Catalyst Stone	3,32	24,99
+Altar of the Lost	Altar of the Lost	0,05	0,24
+Hierophant's Chalice	Hierophant's Chalice	0,15	0,15
+Worn Powerstone	Worn Powerstone	0,48	null
+Renegade Map	Renegade Map	0,04	0,45
+Golgari Locket	Golgari Locket	0,10	0,14
+Simic Signet	Simic Signet	0,15	null
+Simic Signet	Simic Signet	0,15	null
+Orazca Relic	Orazca Relic	0,07	null
+Sultai Banner	Sultai Banner	0,20	0,05
+Corrupted Grafstone	Corrupted Grafstone	0,20	0,35
+Dreamstone Hedron			
+Worn Powerstone	Worn Powerstone	0,48	null
+Rakdos Signet	Rakdos Signet	0,50	null
+Commander's Sphere	Commander's Sphere	0,09	null
+Dreamstone Hedron			
+Mycosynth Wellspring	Mycosynth Wellspring	0,15	null
+Darksteel Ingot	Darksteel Ingot	0,34	null
+Ur-Golem's Eye	Ur-Golem's Eye	0,01	null
+Dreamstone Hedron			
+Dreamstone Hedron			
+Orzhov Cluestone	Orzhov Cluestone	0,15	null
+Dreamstone Hedron			
+Rakdos Signet	Rakdos Signet	0,50	null
+Basalt Monolith	Basalt Monolith	1,41	1,79
+Vessel of Endless Rest	Vessel of Endless Rest	0,15	0,19
+Darksteel Ingot	Darksteel Ingot	0,34	null
+Seal of the Guildpact	Seal of the Guildpact	0,35	null
+Boros Locket	Boros Locket	0,03	null
+Sol Ring	Sol Ring	null	null
+Selesnya Signet	Selesnya Signet	0,40	null
+Boros Signet	Boros Signet	0,54	null
+Sky Diamond	Sky Diamond	0,03	null
+Moss Diamond	Moss Diamond	0,50	0,14
+Seer's Lantern	Seer's Lantern	0,02	0,05
+Moss Diamond	Moss Diamond	0,50	0,14
+Oketra's Monument	Oketra's Monument	1,01	2,10
+Boros Cluestone	Boros Cluestone	0,10	null
+Mana Geode	Mana Geode	0,35	null
+Dimir Locket	Dimir Locket	0,14	null
+Unstable Obelisk	Unstable Obelisk	0,05	null
+Midnight Clock	Midnight Clock	0,41	null
+Azorius Cluestone	Azorius Cluestone	0,12	1,00
+Orzhov Cluestone	Orzhov Cluestone	0,15	null
+Basalt Monolith	Basalt Monolith	1,41	1,79
+Springleaf Drum	Springleaf Drum	1,20	1,56
+Mana Geode	Mana Geode	0,35	null
+Dimir Signet	Dimir Signet	2,40	null
+Dimir Cluestone	Dimir Cluestone	0,12	0,10
+Prismatic Lens	Prismatic Lens	0,09	0,34
+Astral Cornucopia	Astral Cornucopia	2,75	null
+Everflowing Chalice	Everflowing Chalice	0,21	0,23
+Coveted Jewel	Coveted Jewel	0,21	null
+Worn Powerstone	Worn Powerstone	0,48	null
+Commander's Sphere	Commander's Sphere	0,09	null
+Sol Ring	Sol Ring	null	null
+Hedron Archive	Hedron Archive	0,14	null
+Magnifying Glass	Magnifying Glass	0,05	0,05
+Wayfarer's Bauble	Wayfarer's Bauble	1,97	null
+Burnished Hart			
+Lodestone Myr	Lodestone Myr	0,29	0,31
+Draco	Draco	1,70	99,99
+Perilous Myr	Perilous Myr	0,07	0,18
+Filigree Familiar	Filigree Familiar	0,02	0,16
+Pilgrim's Eye	Pilgrim's Eye	0,11	null
+Filigree Familiar	Filigree Familiar	0,02	0,16
+Perilous Myr	Perilous Myr	0,07	0,18
+Foundry Inspector	Foundry Inspector	0,07	null
+Jhoira's Familiar	Jhoira's Familiar	0,12	0,34
+Etched Oracle	Etched Oracle	0,05	null
+Sandstone Oracle	Sandstone Oracle	0,08	0,05
+Triskelion	Triskelion	0,60	null
+Darksteel Juggernaut	Darksteel Juggernaut	0,49	null
+Myr Landshaper	Myr Landshaper	0,12	2,95
+Jhoira's Familiar	Jhoira's Familiar	0,12	0,34
+Foundry Inspector	Foundry Inspector	0,07	null
+Palladium Myr	Palladium Myr	0,13	0,40
+Junktroller	Junktroller	0,18	0,33
+Silent Arbiter	Silent Arbiter	1,59	null
+Wall of Junk	Wall of Junk	0,86	null
+Crashing Drawbridge	Crashing Drawbridge	0,08	0,63
+Burnished Hart			
+Scrap Trawler	Scrap Trawler	0,47	null
+Shimmer Myr	Shimmer Myr	0,21	null
+Metalwork Colossus	Metalwork Colossus	0,46	0,51
+Gleaming Barrier	Gleaming Barrier	0,20	0,15
+Crackdown Construct	Crackdown Construct	0,09	0,05
+Duplicant	Duplicant	0,29	null
+Workshop Assistant	Workshop Assistant	0,03	0,06
+Voltaic Servant	Voltaic Servant	0,03	0,60
+Epitaph Golem	Epitaph Golem	0,02	0,25
+Pilgrim's Eye	Pilgrim's Eye	0,11	null
+Hope of Ghirapur	Hope of Ghirapur	1,04	6,50
+Core Prowler	Core Prowler	0,33	1,35
+Myr Retriever	Myr Retriever	0,12	0,12
+Voltaic Construct	Voltaic Construct	0,27	3,61
+Sandstone Oracle	Sandstone Oracle	0,08	0,05
+Thopter Assembly	Thopter Assembly	0,20	null
+Mycosynth Golem	Mycosynth Golem	5,37	21,23
+Darksteel Colossus	Darksteel Colossus	4,98	8,45
+Leaden Myr	Leaden Myr	0,11	0,30
+Silver Myr	Silver Myr	0,14	null
+Iron Myr	Iron Myr	0,06	0,07
+Gold Myr	Gold Myr	0,10	null
+Myr Galvanizer	Myr Galvanizer	0,51	1,25
+Scrapyard Recombiner	Scrapyard Recombiner	0,30	2,84
+Chief of the Foundry	Chief of the Foundry	0,10	0,15
+Shell Skulkin	Shell Skulkin	0,12	0,30
+Tatterkite	Tatterkite	0,25	0,20
+Field Creeper	Field Creeper	0,03	0,15
+Harvest Hand // Scrounged Scythe			
+One-Eyed Scarecrow	One-Eyed Scarecrow	0,10	0,49
+Assembly-Worker	Assembly-Worker	0,05	0,10
+Walker of the Wastes	Walker of the Wastes	0,09	0,05
+Ruin Processor	Ruin Processor	0,03	1,00
+Warden of Geometries	Warden of Geometries	0,05	0,15
+Manor Gargoyle	Manor Gargoyle	0,04	0,29
+Pili-Pala	Pili-Pala	0,43	5,00
+Juggernaut	Juggernaut	0,10	null
+Foundry Assembler	Foundry Assembler	0,20	0,19
+Warden of Geometries	Warden of Geometries	0,05	0,15
+Hedron Crawler	Hedron Crawler	0,06	0,30
+Ornithopter	Ornithopter	0,30	0,90
+Sparring Construct	Sparring Construct	0,15	0,04
+Frogmite	Frogmite	0,28	0,50
+Nullstone Gargoyle	Nullstone Gargoyle	0,60	3,50
+Heap Doll	Heap Doll	0,04	0,40
+Grim Poppet	Grim Poppet	0,65	4,89
+Wild-Field Scarecrow	Wild-Field Scarecrow	0,02	0,45
+Watchers of the Dead	Watchers of the Dead	0,08	0,20
+Razormane Masticore	Razormane Masticore	0,05	null
+Juggernaut	Juggernaut	0,10	null
+Arcbound Worker	Arcbound Worker	0,20	1,07
+Clockwork Condor	Clockwork Condor	0,02	null
+Synod Centurion	Synod Centurion	0,02	null
+Runed Servitor	Runed Servitor	0,10	null
+Endbringer	Endbringer	0,69	0,99
+Opaline Unicorn	Opaline Unicorn	0,06	0,34
+Scuttlemutt	Scuttlemutt	0,10	null
+Endbringer	Endbringer	0,69	0,99
+Eldrazi Devastator	Eldrazi Devastator	0,07	0,20
+Artisan of Kozilek	Artisan of Kozilek	0,43	1,49
+Ugin's Conjurant	Ugin's Conjurant	0,14	0,09
+Triskelion	Triskelion	0,60	null
+Psychosis Crawler	Psychosis Crawler	0,40	null
+Skittering Surveyor	Skittering Surveyor	0,10	null
+Runed Servitor	Runed Servitor	0,10	null
+Peace Strider	Peace Strider	0,02	0,05
+Clockwork Hydra			
+Prismite	Prismite	0,20	0,04
+Iron Bully	Iron Bully	0,02	0,02
+Saheeli's Silverwing	Saheeli's Silverwing	0,03	0,07
+Prismite	Prismite	0,20	0,04
+Saheeli's Silverwing	Saheeli's Silverwing	0,03	0,07
+Myr Enforcer	Myr Enforcer	0,30	1,00
+Self-Assembler	Self-Assembler	0,02	0,04
+Cogwork Assembler	Cogwork Assembler	0,10	0,10
+Workshop Assistant	Workshop Assistant	0,03	0,06
+Triskelavus	Triskelavus	0,10	null
+Thopter Squadron	Thopter Squadron	null	null
+Pentavus	Pentavus	0,25	null
+Tetravus	Tetravus	null	null
+Guardians of Koilos	Guardians of Koilos	0,01	0,10
+Steel Wall	Steel Wall	null	null
+Serrated Biskelion	Serrated Biskelion	0,01	null
+Runed Servitor	Runed Servitor	0,10	null
+Soul of New Phyrexia	Soul of New Phyrexia	1,09	null
+Phyrexian Colossus	Phyrexian Colossus	0,15	null
+Dross Scorpion	Dross Scorpion	0,49	0,15
+Colossus of Akros	Colossus of Akros	0,43	2,69
+Ichorclaw Myr	Ichorclaw Myr	0,56	3,95
+Steel Overseer	Steel Overseer	0,91	null
+Adaptive Automaton	Adaptive Automaton	0,50	null
+Kuldotha Forgemaster	Kuldotha Forgemaster	2,44	2,00
+Myr Battlesphere	Myr Battlesphere	0,31	null
+Druidic Satchel	Druidic Satchel	0,13	null
+Keening Stone	Keening Stone	1,74	null
+Tormod's Crypt	Tormod's Crypt	0,28	1,35
+Seer's Sundial	Seer's Sundial	0,02	null
+Explosive Apparatus	Explosive Apparatus	0,02	0,03
+Soul Conduit	Soul Conduit	0,10	1,49
+Wand of Vertebrae	Wand of Vertebrae	0,08	0,15
+Silent Dart	Silent Dart	0,02	0,10
+Moonglove Extract	Moonglove Extract	0,02	0,04
+Navigator's Compass	Navigator's Compass	0,10	0,18
+Welding Jar	Welding Jar	0,32	0,53
+Staff of Nin	Staff of Nin	0,73	null
+Azor's Gateway // Sanctum of the Sun	Azor's Gateway // Sanctum of the Sun	2,67	5,00
+Throne of the God-Pharaoh	Throne of the God-Pharaoh	3,24	10,00
+Mizzium Tank	Mizzium Tank	0,06	0,10
+Origin Spellbomb	Origin Spellbomb	0,12	0,30
+Lifecrafter's Bestiary	Lifecrafter's Bestiary	1,63	null
+Nihil Spellbomb	Nihil Spellbomb	0,53	4,59
+Silent Submersible	Silent Submersible	0,09	0,49
+Aether Spellbomb	Aether Spellbomb	0,10	null
+Spin Engine	Spin Engine	0,02	0,10
+Weldfast Monitor	Weldfast Monitor	0,01	0,03
+Metalspinner's Puzzleknot	Metalspinner's Puzzleknot	0,12	0,03
+Pyrite Spellbomb	Pyrite Spellbomb	0,15	0,03
+Flight Spellbomb	Flight Spellbomb	0,01	0,49
+Herbal Poultice	Herbal Poultice	0,05	0,55
+Universal Solvent	Universal Solvent	0,02	0,03
+Brittle Effigy	Brittle Effigy	0,10	null
+Elixir of Immortality	Elixir of Immortality	0,26	null
+Consulate Turret	Consulate Turret	0,23	0,15
+Oracle's Vault	Oracle's Vault	0,15	0,28
+Emmessi Tome	Emmessi Tome	0,07	0,05
+Damping Matrix	Damping Matrix	0,39	1,10
+Mirari	Mirari	0,50	null
+Gonti's Aether Heart			
+Energy Chamber	Energy Chamber	0,28	null
+Well of Lost Dreams	Well of Lost Dreams	1,94	null
+Caltrops	Caltrops	0,49	9,50
+Angel's Trumpet	Angel's Trumpet	0,50	7,99
+Boompile	Boompile	null	null
+Salvaging Station	Salvaging Station	0,43	4,00
+Unwinding Clock	Unwinding Clock	12,22	null
+Staff of Nin	Staff of Nin	0,73	null
+Akroma's Memorial	Akroma's Memorial	5,58	15,95
+Ichor Wellspring	Ichor Wellspring	0,08	null
+Sculpting Steel	Sculpting Steel	0,46	null
+Staff of Nin	Staff of Nin	0,73	null
+Liquimetal Coating	Liquimetal Coating	1,20	null
+God-Pharaoh's Statue	God-Pharaoh's Statue	0,31	4,79
+Ugin's Nexus	Ugin's Nexus	0,74	2,88
+Tormod's Crypt	Tormod's Crypt	0,28	1,35
+Spine of Ish Sah	Spine of Ish Sah	0,47	null
+Embalmer's Tools	Embalmer's Tools	0,28	0,18
+The Hive			
+Well of Lost Dreams	Well of Lost Dreams	1,94	null
+Mindslaver	Mindslaver	2,49	9,90
+Brain in a Jar	Brain in a Jar	0,19	0,47
+Codex Shredder	Codex Shredder	0,08	0,14
+Explosive Apparatus	Explosive Apparatus	0,02	0,03
+Culling Dais	Culling Dais	0,08	0,10
+Seer's Sundial	Seer's Sundial	0,02	null
+Nevinyrral's Disk	Nevinyrral's Disk	0,21	0,45
+Horn of Greed	Horn of Greed	3,99	6,88
+Storm Cauldron	Storm Cauldron	1,10	130,00
+Servo Schematic	Servo Schematic	0,51	0,25
+Spine of Ish Sah	Spine of Ish Sah	0,47	null
+Darksteel Forge	Darksteel Forge	11,16	11,48
+Possessed Portal	Possessed Portal	1,75	7,17
+Myr Matrix	Myr Matrix	0,39	4,00
+Shrine of Loyal Legions	Shrine of Loyal Legions	0,15	1,50
+Myr Incubator	Myr Incubator	0,33	1,98
+Nevinyrral's Disk	Nevinyrral's Disk	0,21	0,45
+Mycosynth Wellspring	Mycosynth Wellspring	0,15	null
+Transmogrifying Wand	Transmogrifying Wand	0,15	0,45
+Trading Post	Trading Post	0,46	null
+Ashnod's Altar	Ashnod's Altar	9,57	14,50
+Semblance Anvil	Semblance Anvil	3,07	7,50
+Aetherflux Reservoir	Aetherflux Reservoir	6,60	10,00
+Sphinx-Bone Wand	Sphinx-Bone Wand	0,30	null
+Mirrorworks	Mirrorworks	0,43	null
+Thousand-Year Elixir	Thousand-Year Elixir	4,68	null
+Mirage Mirror	Mirage Mirror	1,26	null
+Contagion Clasp	Contagion Clasp	null	null
+Animation Module	Animation Module	0,70	1,98
+Genesis Chamber	Genesis Chamber	0,89	3,99
+Blinkmoth Urn	Blinkmoth Urn	0,61	null
+Clock of Omens	Clock of Omens	0,40	6,00
+Myr Turbine	Myr Turbine	1,38	3,99
+Door of Destinies	Door of Destinies	12,95	null
+Scour from Existence	Scour from Existence	0,04	0,72
+Leveler	Leveler	0,87	4,25
+Lotus Bloom	Lotus Bloom	1,07	2,10
+Chromatic Star	Chromatic Star	0,18	1,05
+Paradise Plume	Paradise Plume	0,09	null
+Lodestone Golem	Lodestone Golem	0,99	2,75
+Shimmer Myr	Shimmer Myr	0,21	null
+Culling Dais	Culling Dais	0,08	0,10
+Mask of Memory	Mask of Memory	0,25	0,40
+Moonsilver Spear	Moonsilver Spear	0,22	null
+Sol Ring	Sol Ring	null	null
+Gruul Signet	Gruul Signet	0,20	null
+Talisman of Impulse	Talisman of Impulse	0,37	2,49
+Treasure Map // Treasure Cove	Treasure Map // Treasure Cove	4,71	7,99
+Brass Herald			
+Powerstone Shard	Powerstone Shard	0,05	0,26
+Herald's Horn			
+Tamiyo's Journal	Tamiyo's Journal	0,61	null
+Throne of Geth	Throne of Geth	0,14	0,66
+Dimir Signet	Dimir Signet	2,40	null
+Azorius Signet	Azorius Signet	0,45	null
+Meteor Golem	Meteor Golem	0,26	null
+Talisman of Hierarchy			
+Skullclamp	Skullclamp	6,98	null
+Solemn Simulacrum	Solemn Simulacrum	0,82	null
+Inspiring Statuary	Inspiring Statuary	3,38	1,25
+Scroll of Fate	Scroll of Fate	1,00	null
+Sol Ring	Sol Ring	null	null
+Fellwar Stone	Fellwar Stone	1,78	null
+Talisman of Dominance	Talisman of Dominance	2,83	null
+Forsaken Monument	Forsaken Monument	4,91	6,36
+Precursor Golem	Precursor Golem	0,25	0,25
+Thran Dynamo	Thran Dynamo	3,24	null
+Skyclave Relic	Skyclave Relic	1,28	2,50
+Orzhov Signet	Orzhov Signet	0,23	null
+Panharmonicon	Panharmonicon	4,77	8,45
+Cranial Plating	Cranial Plating	0,16	0,87
+Conjurer's Closet	Conjurer's Closet	3,00	4,90
+Myriad Construct	Myriad Construct	0,10	0,24
+Gilded Lotus	Gilded Lotus	2,61	4,25
+Myr Battlesphere	Myr Battlesphere	0,31	null
+Mind Stone	Mind Stone	null	null
+Fellwar Stone	Fellwar Stone	1,78	null
+Sol Ring	Sol Ring	null	null
+Gauntlet of Power	Gauntlet of Power	1,99	9,00
+Cryptolith Fragment // Aurora of Emrakul	Cryptolith Fragment // Aurora of Emrakul	0,13	0,95
+Thought Vessel	Thought Vessel	null	null
+Wayfarer's Bauble	Wayfarer's Bauble	1,97	null
+Walking Atlas	Walking Atlas	0,61	4,95
+Solemn Simulacrum	Solemn Simulacrum	0,82	null
+Caged Sun	Caged Sun	3,20	null
+Doubling Cube	Doubling Cube	10,14	35,00
+Charcoal Diamond	Charcoal Diamond	0,11	null
+Burnished Hart			
+Wayfarer's Bauble	Wayfarer's Bauble	1,97	null
+Commander's Sphere	Commander's Sphere	0,09	null
+Rogue's Gloves	Rogue's Gloves	0,09	null
+Boros Signet	Boros Signet	0,54	null
+Mind Stone	Mind Stone	null	null
+Mask of Memory	Mask of Memory	0,25	0,40
+Hedron Archive	Hedron Archive	0,14	null
+Marble Diamond	Marble Diamond	0,23	null
+Dowsing Dagger // Lost Vale	Dowsing Dagger // Lost Vale	2,19	8,45
+Oketra's Monument	Oketra's Monument	1,01	2,10
+Sword of the Animist	Sword of the Animist	5,77	null
+Swiftfoot Boots	Swiftfoot Boots	null	null
+Heirloom Blade	Heirloom Blade	0,09	null
+Assault Suit	Assault Suit	0,14	null
+Eldrazi Monument	Eldrazi Monument	5,50	null
+Coat of Arms	Coat of Arms	7,99	null
+Sol Ring	Sol Ring	null	null
+Bloodthirsty Blade	Bloodthirsty Blade	0,10	null
+Skullclamp	Skullclamp	6,98	null
+Argentum Armor	Argentum Armor	0,20	null
+Etched Champion	Etched Champion	3,00	6,45
+Sword of the Animist	Sword of the Animist	5,77	null
+Grafted Exoskeleton	Grafted Exoskeleton	null	null
+Brass Squire	Brass Squire	0,34	null
+Armory Automaton	Armory Automaton	3,15	null
+Masterwork of Ingenuity	Masterwork of Ingenuity	0,26	null
+Colossus Hammer			
+Hammer of Nazahn	Hammer of Nazahn	9,68	13,80
+Grappling Hook			
+Deathrender	Deathrender	2,22	3,95
+Worldslayer	Worldslayer	0,10	3,27
+Sword of Vengeance	Sword of Vengeance	null	null
+Blade of Selves	Blade of Selves	13,17	null
+Inquisitor's Flail	Inquisitor's Flail	0,30	1,75
+Talisman of Conviction	Talisman of Conviction	0,91	2,79
+Fellwar Stone	Fellwar Stone	1,78	null
+Solemn Simulacrum	Solemn Simulacrum	0,82	null
+Boros Cluestone	Boros Cluestone	0,10	null
+Marble Diamond	Marble Diamond	0,23	null
+Primal Amulet // Primal Wellspring	Primal Amulet // Primal Wellspring	7,76	13,99
+Boros Signet	Boros Signet	0,54	null
+Sword of the Animist	Sword of the Animist	5,77	null
+Stuffy Doll	Stuffy Doll	0,72	1,39
+Fire Diamond	Fire Diamond	0,12	null
+Wayfarer's Bauble	Wayfarer's Bauble	1,97	null
+Long-Forgotten Gohei	Long-Forgotten Gohei	0,25	0,99
+Dowsing Dagger // Lost Vale	Dowsing Dagger // Lost Vale	2,19	8,45
+Commander's Sphere	Commander's Sphere	0,09	null
+Burnished Hart			
+Introduction to Annihilation	Introduction to Annihilation	0,02	0,25
+Platinum Emperion	Platinum Emperion	8,85	22,99
+Platinum Angel	Platinum Angel	4,99	10,00
+Skyclave Relic	Skyclave Relic	1,28	2,50
+Guardian Idol	Guardian Idol	0,12	null
+Expanded Anatomy	Expanded Anatomy	0,35	0,11
+Golden Guardian // Gold-Forge Garrison	Golden Guardian // Gold-Forge Garrison	0,71	2,49
+Karn, Scion of Urza	Karn, Scion of Urza	6,63	13,90
+Idol of Oblivion	Idol of Oblivion	2,99	null
+Phyrexian Triniform	Phyrexian Triniform	2,33	2,50
+Triplicate Titan	Triplicate Titan	1,20	null
+Desolation Twin	Desolation Twin	0,18	null
+Myr Battlesphere	Myr Battlesphere	0,31	null
+Treasure Map // Treasure Cove	Treasure Map // Treasure Cove	4,71	7,99
+Sky Diamond	Sky Diamond	0,03	null
+Commander's Sphere	Commander's Sphere	0,09	null
+Thran Dynamo	Thran Dynamo	3,24	null
+Wayfarer's Bauble	Wayfarer's Bauble	1,97	null
+Arcane Signet	Arcane Signet	null	null
+Izzet Signet	Izzet Signet	null	null
+Mind Stone	Mind Stone	null	null
+Fellwar Stone	Fellwar Stone	1,78	null
+Coldsteel Heart			
+Inspiring Statuary	Inspiring Statuary	3,38	1,25
+Goldvein Pick	Goldvein Pick	0,02	0,20
+Prying Blade	Prying Blade	0,05	0,35
+Zuran Orb	Zuran Orb	0,07	0,50
+Urza's Saga	Urza's Saga	38,88	81,25
+Dungeon Map	Dungeon Map	0,02	0,13
+Spiked Pit Trap	Spiked Pit Trap	0,05	0,02
+Spare Dagger	Spare Dagger	0,04	0,05
+Eye of Vecna	Eye of Vecna	0,33	0,50
+Mimic	Mimic	0,05	0,10
+Leather Armor	Leather Armor	0,15	0,15
+Spiked Pit Trap	Spiked Pit Trap	0,05	0,02
+Hand of Vecna	Hand of Vecna	0,09	0,36
+Greataxe	Greataxe	0,05	0,02
+Iron Golem	Iron Golem	0,02	0,10
+Arcane Signet	Arcane Signet	null	null
+Charcoal Diamond	Charcoal Diamond	0,11	null
+Commander's Sphere	Commander's Sphere	0,09	null
+Sky Diamond	Sky Diamond	0,03	null
+Sol Ring	Sol Ring	null	null
+Talisman of Dominance	Talisman of Dominance	2,83	null
+Spawning Pit	Spawning Pit	null	null
+Academy Manufactor	Academy Manufactor	1,22	3,49
+Academy Manufactor	Academy Manufactor	1,22	3,49
+Circuit Mender	Circuit Mender	0,08	0,17
+Eater of Virtue	Eater of Virtue	0,59	0,50
